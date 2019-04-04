@@ -1,0 +1,10 @@
+Create Blog with content about us.
+Verify on store.
+Edit for clear content page
+webstore add comment and verify in admin.
+in admin edit for comment and set it false.
+webstore no comments should be present.
+Admin add content new page
+verify in webstore.
+admin set is active and is allow comment disable
+webstore blog should not be present.
